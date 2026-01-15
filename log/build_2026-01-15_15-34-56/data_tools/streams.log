@@ -1,0 +1,5 @@
+[0.033s] Invoking command in '/home/zhbs/pika_ros/src/data_tools/build/data_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhbs/pika_ros/install/piper:/opt/ros/humble /usr/bin/cmake /home/zhbs/pika_ros/src/data_tools -DCMAKE_INSTALL_PREFIX=/home/zhbs/pika_ros/src/data_tools/install/data_tools
+[0.224s] -- The C compiler identification is GNU 11.4.0
+[0.400s] -- The CXX compiler identification is GNU 11.4.0
+[0.435s] -- Detecting C compiler ABI info
+[0.686s] Invoked command in '/home/zhbs/pika_ros/src/data_tools/build/data_tools' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhbs/pika_ros/install/piper:/opt/ros/humble /usr/bin/cmake /home/zhbs/pika_ros/src/data_tools -DCMAKE_INSTALL_PREFIX=/home/zhbs/pika_ros/src/data_tools/install/data_tools
